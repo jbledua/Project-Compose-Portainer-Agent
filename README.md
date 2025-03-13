@@ -80,7 +80,7 @@ If you want to deploy this stack using **Portainer's GitOps feature**, follow th
 2. Navigate to **Stacks** → **+ Add Stack**.
 3. Select **Git repository**.
 4. Fill in the details:
-   - **Repository URL**: `https://github.com/YOUR_GITHUB_USERNAME/Project-Compose-Portainer-Agent.git`
+   - **Repository URL**: `https://github.com/jbledua/Project-Compose-Portainer-Agent.git`
    - **Branch**: `main`
    - **Authentication**: ✅ Enable and enter your GitHub **username** & **Personal Access Token (PAT)**.
 5. Click **Deploy the Stack**.
